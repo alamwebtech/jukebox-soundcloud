@@ -1,0 +1,47 @@
+body{
+   background-image: url("power.jpg");
+   background-size: cover;
+}
+
+
+button {
+  display: inline-block;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+button:hover{
+  color: gray;
+}
+
+header{
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+#song-text{
+  display: block;
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: cursive;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 50%;
+  margin: 0 auto;
+}
